@@ -37,7 +37,7 @@ Key components of the project include:
 
 ```
 ├── data.csv                # Breast Cancer Wisconsin dataset
-├── 422_research.pdf         # Project report detailing all steps and results
+├── 422_research.pdf         # A concise, up‑to‑date literature review of leading research (2023 – 2025) on breast‑cancer prediction using machine learning, sourced with the help of Perplexity AI.
 ├── CSE422_[AI]_projectl.ipynb # Jupyter notebook with code implementation
 └── README.md               # This file
 ```
@@ -196,9 +196,7 @@ If you use this work in academic research or clinical evaluation, please cite:
 
 > A K M Nihalul Kabir. (2025). *Breast Cancer Classification Project*. GitHub repository: \[https://github.com/nihal-kabir/CSE422-Artificial-Intelligence-Project]
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
