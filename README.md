@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the development and evaluation of machine learning models for classifying breast cancer tumors as benign or malignant using the Breast Cancer Wisconsin dataset (\https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data). The primary goal is to build a predictive model with high accuracy, ROC-AUC, and clinical relevance that can assist in early cancer detection.
+This project demonstrates the development and evaluation of machine learning models for classifying breast cancer tumors as benign or malignant using the Breast Cancer Wisconsin dataset (https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data). The primary goal is to build a predictive model with high accuracy, ROC-AUC, and clinical relevance that can assist in early cancer detection.
 
 Key components of the project include:
 
@@ -194,7 +194,7 @@ Train multiple classifiers on the processed data:
 
 If you use this work in academic research or clinical evaluation, please cite:
 
-> A. K. M. N. Kabir, "Breast Cancer Classification Project," GitHub repository, 2025. [Online]. Available: \https://github.com/nihal-kabir/CSE422-Artificial-Intelligence-Project
+> A. K. M. N. Kabir, "Breast Cancer Classification Project," GitHub repository, 2025. [Online]. Available: https://github.com/nihal-kabir/CSE422-Artificial-Intelligence-Project
 
 
 
