@@ -1,4 +1,4 @@
-# Breast Cancer Classification Research Project
+# MammoMind: Cutting-Edge ML for Early Tumor Detection
 
 ## Overview
 
