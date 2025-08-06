@@ -194,7 +194,7 @@ Train multiple classifiers on the processed data:
 
 If you use this work in academic research or clinical evaluation, please cite:
 
-> A. K. M. N. Kabir, "MammoMind: Cutting-Edge ML for Early Tumor Detection," GitHub repository, 2025. [Online]. Available: [https://github.com/nihal-kabir/CSE422-Artificial-Intelligence-Project](https://github.com/nihal-kabir/MammoMind-Cutting-Edge-ML-for-Early-Tumor-Detection)
+> A. K. M. N. Kabir, "MammoMind: Cutting-Edge ML for Early Tumor Detection," GitHub repository, 2025. [Online]. Available: [https://github.com/nihal-kabir/MammoMind-Cutting-Edge-ML-for-Early-Tumor-Detection](https://github.com/nihal-kabir/MammoMind-Cutting-Edge-ML-for-Early-Tumor-Detection)
 
 
 
